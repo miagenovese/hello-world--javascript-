@@ -1,0 +1,4 @@
+#!/usr/local/bin/node
+
+// Prints a greeting to the console
+console.log("hello, world!");
